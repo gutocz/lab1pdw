@@ -1,0 +1,2 @@
+4:
+O JavaScript é essencial no desenvolvimento da Web porque permite adicionar interatividade e dinamismo às páginas. Ele pode ser usado para validar formulários, atualizar partes de uma página sem recarregá-la e criar animações. Isso torna o JavaScript o motor indispensável para a criação de sites e aplicativos completos.

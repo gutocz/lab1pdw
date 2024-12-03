@@ -1,0 +1,4 @@
+2:
+HTML - É a base das aplicações Web, essa linguagem de formatação é o que torna a organização web possível, além de ser extremamente simples de se entender e o primeiro passo de muitos programadores.
+CSS - É a estilização das páginas web, responsável pelo estilo que muitas das vezes é a alma de um site e o que mantém os usuários convivendo com a aplicação.
+JAVASCRIPT - É o que da a vida ao site, permite um mundo de interações com o usuário, é o que de fato simboliza a evolução dos sites de antes, voltados para apenas leitura, tornando-se um site com interação com os usuários.

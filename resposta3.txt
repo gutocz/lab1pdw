@@ -1,0 +1,3 @@
+3:
+Versionamento de código é controlar/gerenciar/dividir seu código em versões, utilizando branchs, commits, etc.
+É de extrema necessidade em um desenvolvimento colaborativo, pois com isso é possível controlar e acompanhar cada mudança em código, como quem fez o que e quando, o que torna tudo, além de mais fácil de ser entendível, mais fácil de ser corrigido e evoluído.

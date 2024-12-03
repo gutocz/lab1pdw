@@ -1,0 +1,72 @@
+/* Configuração geral */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Cabeçalho */
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+    border-bottom: 4px solid #388E3C;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+header p {
+    margin: 5px 0 0;
+}
+
+/* Questões */
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.question {
+    background: #fff;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.question p {
+    margin: 0 0 10px;
+}
+
+/* Links */
+.link {
+    display: inline-block;
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+    border: 2px solid #4CAF50;
+    border-radius: 4px;
+    padding: 5px 10px;
+    transition: background 0.3s, color 0.3s;
+}
+
+.link:hover {
+    background: #4CAF50;
+    color: white;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: white;
+    margin-top: 20px;
+}

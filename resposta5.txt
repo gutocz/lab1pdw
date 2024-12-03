@@ -1,0 +1,2 @@
+5:
+Inicialmente, com certeza, eu me reuniria com minha dupla para decidirmos ferramentas em comum que utilizaríamos além de definir quais seriam os requisitos funcionais e não funcionais a serem desenvolvidas e em que prazo para ai sim darmos início a nossa produção.
